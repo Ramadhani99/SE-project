@@ -3,3 +3,11 @@
 	margin: 0px;
 	
 }
+#sidebar{
+	position: fixed;
+	padding: 10px;
+	margin: 9px;
+	width: 200px;
+	height: 100%;
+	border-bottom: 2px solid #124578;
+}
