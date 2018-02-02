@@ -5,4 +5,15 @@
 	margin: 0px;
 	
 }
+<<<<<<< HEAD
 >>>>>>> 7f5240d72fa7be680c7f21b4750e6d69bc9fb714
+=======
+#sidebar{
+	position: fixed;
+	padding: 10px;
+	margin: 9px;
+	width: 200px;
+	height: 100%;
+	border-bottom: 2px solid #124578;
+}
+>>>>>>> 17c5063010901bdba5bed8140480ea29d96fa491
